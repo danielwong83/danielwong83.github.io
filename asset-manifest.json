@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b014c6a.css",
+    "main.js": "/static/js/main.6e29ce4b.js",
+    "static/media/portrait.png": "/static/media/portrait.b3ac9e81d34d1fbb0cea.png",
+    "static/media/logo.png": "/static/media/logo.f3534b3eaa3a4d0e7219.png",
+    "static/media/resume.pdf": "/static/media/resume.a4fed45dceac38a87012.pdf",
+    "static/media/website.svg": "/static/media/website.55fb50da9f5a5eb3579f8b6050fa668b.svg",
+    "static/media/dashboard.svg": "/static/media/dashboard.0d11cdd7e27907b1b7a3859d5d8b145c.svg",
+    "static/media/turtle.svg": "/static/media/turtle.590275cfb313335cabbb3e6d3e67d2e9.svg",
+    "static/media/gmail.svg": "/static/media/gmail.4230c4d59b7b4da8c1a267919ab3375a.svg",
+    "static/media/blackjack.svg": "/static/media/blackjack.9f28c9c3386478704065beaf87d08b9b.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.32e20978a96ff60c1fdc5a8389e532ba.svg",
+    "static/media/lichess.svg": "/static/media/lichess.d07684b8726ccbddd70b3c81fb70ef56.svg",
+    "index.html": "/index.html",
+    "main.1b014c6a.css.map": "/static/css/main.1b014c6a.css.map",
+    "main.6e29ce4b.js.map": "/static/js/main.6e29ce4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b014c6a.css",
+    "static/js/main.6e29ce4b.js"
+  ]
+}

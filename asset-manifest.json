@@ -1,24 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.1b014c6a.css",
-    "main.js": "/static/js/main.33733c3f.js",
+    "main.js": "/static/js/main.91daf2a6.js",
     "static/media/portrait.png": "/static/media/portrait.b3ac9e81d34d1fbb0cea.png",
     "static/media/logo.png": "/static/media/logo.f3534b3eaa3a4d0e7219.png",
     "static/media/resume.pdf": "/static/media/resume.a4fed45dceac38a87012.pdf",
     "static/media/website.svg": "/static/media/website.55fb50da9f5a5eb3579f8b6050fa668b.svg",
+    "static/media/football.svg": "/static/media/football.e80026b620a71d68c02f59c2632d4514.svg",
     "static/media/dashboard.svg": "/static/media/dashboard.0d11cdd7e27907b1b7a3859d5d8b145c.svg",
+    "static/media/webscraping.svg": "/static/media/webscraping.44164dab492378c975021879c3bcb1e5.svg",
     "static/media/turtle.svg": "/static/media/turtle.590275cfb313335cabbb3e6d3e67d2e9.svg",
     "static/media/github.svg": "/static/media/github.e0d7d7254ac0545743fc7af09c1e977b.svg",
+    "static/media/maze.svg": "/static/media/maze.854045791bca60d6eeb1e3f9ec6c5718.svg",
     "static/media/gmail.svg": "/static/media/gmail.4230c4d59b7b4da8c1a267919ab3375a.svg",
     "static/media/blackjack.svg": "/static/media/blackjack.9f28c9c3386478704065beaf87d08b9b.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.32e20978a96ff60c1fdc5a8389e532ba.svg",
     "static/media/lichess.svg": "/static/media/lichess.d07684b8726ccbddd70b3c81fb70ef56.svg",
     "index.html": "/index.html",
     "main.1b014c6a.css.map": "/static/css/main.1b014c6a.css.map",
-    "main.33733c3f.js.map": "/static/js/main.33733c3f.js.map"
+    "main.91daf2a6.js.map": "/static/js/main.91daf2a6.js.map"
   },
   "entrypoints": [
     "static/css/main.1b014c6a.css",
-    "static/js/main.33733c3f.js"
+    "static/js/main.91daf2a6.js"
   ]
 }

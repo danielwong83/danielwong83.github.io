@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.1b014c6a.css",
-    "main.js": "/static/js/main.91daf2a6.js",
+    "main.js": "/static/js/main.b43878a9.js",
     "static/media/portrait.png": "/static/media/portrait.b3ac9e81d34d1fbb0cea.png",
     "static/media/logo.png": "/static/media/logo.f3534b3eaa3a4d0e7219.png",
     "static/media/resume.pdf": "/static/media/resume.a4fed45dceac38a87012.pdf",
+    "static/media/chelsea.svg": "/static/media/chelsea.a610a1c9412844048a6714c423dba4b0.svg",
     "static/media/website.svg": "/static/media/website.55fb50da9f5a5eb3579f8b6050fa668b.svg",
     "static/media/football.svg": "/static/media/football.e80026b620a71d68c02f59c2632d4514.svg",
     "static/media/dashboard.svg": "/static/media/dashboard.0d11cdd7e27907b1b7a3859d5d8b145c.svg",
@@ -18,10 +19,10 @@
     "static/media/lichess.svg": "/static/media/lichess.d07684b8726ccbddd70b3c81fb70ef56.svg",
     "index.html": "/index.html",
     "main.1b014c6a.css.map": "/static/css/main.1b014c6a.css.map",
-    "main.91daf2a6.js.map": "/static/js/main.91daf2a6.js.map"
+    "main.b43878a9.js.map": "/static/js/main.b43878a9.js.map"
   },
   "entrypoints": [
     "static/css/main.1b014c6a.css",
-    "static/js/main.91daf2a6.js"
+    "static/js/main.b43878a9.js"
   ]
 }

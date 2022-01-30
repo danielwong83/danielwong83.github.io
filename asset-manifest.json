@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1b014c6a.css",
-    "main.js": "/static/js/main.8a6ada14.js",
+    "main.js": "/static/js/main.2af232d5.js",
     "static/media/portrait-beach-blue.png": "/static/media/portrait-beach-blue.5732c3a26672c119bb8e.png",
     "static/media/logo.png": "/static/media/logo.316b92bd709b21117805.png",
     "static/media/resume.pdf": "/static/media/resume.46e1bfc16cba26faa4d5.pdf",
@@ -19,10 +19,10 @@
     "static/media/lichess.svg": "/static/media/lichess.d07684b8726ccbddd70b3c81fb70ef56.svg",
     "index.html": "/index.html",
     "main.1b014c6a.css.map": "/static/css/main.1b014c6a.css.map",
-    "main.8a6ada14.js.map": "/static/js/main.8a6ada14.js.map"
+    "main.2af232d5.js.map": "/static/js/main.2af232d5.js.map"
   },
   "entrypoints": [
     "static/css/main.1b014c6a.css",
-    "static/js/main.8a6ada14.js"
+    "static/js/main.2af232d5.js"
   ]
 }

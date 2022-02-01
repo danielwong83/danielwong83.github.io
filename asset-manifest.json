@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1b014c6a.css",
-    "main.js": "/static/js/main.257b572a.js",
+    "main.js": "/static/js/main.be201dc7.js",
     "static/media/chess-photo.png": "/static/media/chess-photo.cce98d02ddf31fa61245.png",
     "static/media/portrait-beach-blue.png": "/static/media/portrait-beach-blue.5732c3a26672c119bb8e.png",
     "static/media/hiking.png": "/static/media/hiking.73467869513bb94271ec.png",
@@ -21,10 +21,10 @@
     "static/media/lichess.svg": "/static/media/lichess.d07684b8726ccbddd70b3c81fb70ef56.svg",
     "index.html": "/index.html",
     "main.1b014c6a.css.map": "/static/css/main.1b014c6a.css.map",
-    "main.257b572a.js.map": "/static/js/main.257b572a.js.map"
+    "main.be201dc7.js.map": "/static/js/main.be201dc7.js.map"
   },
   "entrypoints": [
     "static/css/main.1b014c6a.css",
-    "static/js/main.257b572a.js"
+    "static/js/main.be201dc7.js"
   ]
 }

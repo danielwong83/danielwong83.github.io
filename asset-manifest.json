@@ -1,12 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b014c6a.css",
-    "main.js": "/static/js/main.ec78a232.js",
+    "main.css": "/static/css/main.c6cf5043.css",
+    "main.js": "/static/js/main.3407d0e5.js",
     "static/media/chess-photo.png": "/static/media/chess-photo.cce98d02ddf31fa61245.png",
     "static/media/portrait-beach-blue.png": "/static/media/portrait-beach-blue.5732c3a26672c119bb8e.png",
     "static/media/hiking.png": "/static/media/hiking.73467869513bb94271ec.png",
-    "static/media/logo.png": "/static/media/logo.316b92bd709b21117805.png",
+    "static/media/imperial.png": "/static/media/imperial.717b98b4781d2a35ba84.png",
+    "static/media/ramos.png": "/static/media/ramos.061de4d70cb4fe920821.png",
+    "static/media/guitar.png": "/static/media/guitar.df5f6a11891805915813.png",
+    "static/media/league.png": "/static/media/league.b580f0266cc3f0589d0d.png",
+    "static/media/schrute.png": "/static/media/schrute.d18fd847a9b6ea99d264.png",
+    "static/media/max.png": "/static/media/max.6a47ffae8804518ef4e9.png",
+    "static/media/ngolo.png": "/static/media/ngolo.e9ab0726e8dc3f1191f1.png",
     "static/media/resume.pdf": "/static/media/resume.46e1bfc16cba26faa4d5.pdf",
+    "static/media/chess.png": "/static/media/chess.85069946c2efe0c35437.png",
+    "static/media/logo_no_background.png": "/static/media/logo_no_background.50e184ac9f0238a4407f.png",
+    "static/media/elon.png": "/static/media/elon.bc18dd80ee3dd372690c.png",
+    "static/media/doge.png": "/static/media/doge.8402a6d8506d8f6b1e81.png",
     "static/media/chelsea.svg": "/static/media/chelsea.a610a1c9412844048a6714c423dba4b0.svg",
     "static/media/website.svg": "/static/media/website.55fb50da9f5a5eb3579f8b6050fa668b.svg",
     "static/media/football.svg": "/static/media/football.e80026b620a71d68c02f59c2632d4514.svg",
@@ -20,11 +30,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.32e20978a96ff60c1fdc5a8389e532ba.svg",
     "static/media/lichess.svg": "/static/media/lichess.d07684b8726ccbddd70b3c81fb70ef56.svg",
     "index.html": "/index.html",
-    "main.1b014c6a.css.map": "/static/css/main.1b014c6a.css.map",
-    "main.ec78a232.js.map": "/static/js/main.ec78a232.js.map"
+    "main.c6cf5043.css.map": "/static/css/main.c6cf5043.css.map",
+    "main.3407d0e5.js.map": "/static/js/main.3407d0e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b014c6a.css",
-    "static/js/main.ec78a232.js"
+    "static/css/main.c6cf5043.css",
+    "static/js/main.3407d0e5.js"
   ]
 }

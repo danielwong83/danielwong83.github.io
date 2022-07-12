@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6cf5043.css",
-    "main.js": "/static/js/main.a18d5b58.js",
+    "main.css": "/static/css/main.70b60007.css",
+    "main.js": "/static/js/main.118f4357.js",
+    "static/media/wave.gltf": "/static/media/wave.be4432432836dd4d1abf.gltf",
     "static/media/chess-photo.png": "/static/media/chess-photo.cce98d02ddf31fa61245.png",
     "static/media/portrait-beach-blue.png": "/static/media/portrait-beach-blue.5732c3a26672c119bb8e.png",
     "static/media/hiking.png": "/static/media/hiking.73467869513bb94271ec.png",
@@ -27,7 +28,6 @@
     "static/media/dashboard.svg": "/static/media/dashboard.0d11cdd7e27907b1b7a3859d5d8b145c.svg",
     "static/media/about-photos.svg": "/static/media/about-photos.2563e78a277f358dc913545f4c8aae69.svg",
     "static/media/webscraping.svg": "/static/media/webscraping.44164dab492378c975021879c3bcb1e5.svg",
-    "static/media/turtle.svg": "/static/media/turtle.590275cfb313335cabbb3e6d3e67d2e9.svg",
     "static/media/github.svg": "/static/media/github.e0d7d7254ac0545743fc7af09c1e977b.svg",
     "static/media/maze.svg": "/static/media/maze.854045791bca60d6eeb1e3f9ec6c5718.svg",
     "static/media/home-page.svg": "/static/media/home-page.53732c85552d46f9657b0e2a8d4b0180.svg",
@@ -36,11 +36,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.32e20978a96ff60c1fdc5a8389e532ba.svg",
     "static/media/lichess.svg": "/static/media/lichess.d07684b8726ccbddd70b3c81fb70ef56.svg",
     "index.html": "/index.html",
-    "main.c6cf5043.css.map": "/static/css/main.c6cf5043.css.map",
-    "main.a18d5b58.js.map": "/static/js/main.a18d5b58.js.map"
+    "main.70b60007.css.map": "/static/css/main.70b60007.css.map",
+    "main.118f4357.js.map": "/static/js/main.118f4357.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6cf5043.css",
-    "static/js/main.a18d5b58.js"
+    "static/css/main.70b60007.css",
+    "static/js/main.118f4357.js"
   ]
 }

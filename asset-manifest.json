@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.70b60007.css",
-    "main.js": "/static/js/main.118f4357.js",
+    "main.css": "/static/css/main.b30f93dd.css",
+    "main.js": "/static/js/main.540638cf.js",
     "static/media/wave.gltf": "/static/media/wave.be4432432836dd4d1abf.gltf",
     "static/media/chess-photo.png": "/static/media/chess-photo.cce98d02ddf31fa61245.png",
     "static/media/portrait-beach-blue.png": "/static/media/portrait-beach-blue.5732c3a26672c119bb8e.png",
@@ -21,8 +21,8 @@
     "static/media/logo_no_background.png": "/static/media/logo_no_background.50e184ac9f0238a4407f.png",
     "static/media/elon.png": "/static/media/elon.bc18dd80ee3dd372690c.png",
     "static/media/doge.png": "/static/media/doge.8402a6d8506d8f6b1e81.png",
+    "static/media/ruthligos.ttf": "/static/media/ruthligos.764e80d2e83309fb057d.ttf",
     "static/media/chelsea.svg": "/static/media/chelsea.a610a1c9412844048a6714c423dba4b0.svg",
-    "static/media/website.svg": "/static/media/website.55fb50da9f5a5eb3579f8b6050fa668b.svg",
     "static/media/football.svg": "/static/media/football.e80026b620a71d68c02f59c2632d4514.svg",
     "static/media/chess-board.svg": "/static/media/chess-board.8ff910bcd8e57ae9e1f7922c1688665d.svg",
     "static/media/dashboard.svg": "/static/media/dashboard.0d11cdd7e27907b1b7a3859d5d8b145c.svg",
@@ -36,11 +36,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.32e20978a96ff60c1fdc5a8389e532ba.svg",
     "static/media/lichess.svg": "/static/media/lichess.d07684b8726ccbddd70b3c81fb70ef56.svg",
     "index.html": "/index.html",
-    "main.70b60007.css.map": "/static/css/main.70b60007.css.map",
-    "main.118f4357.js.map": "/static/js/main.118f4357.js.map"
+    "main.b30f93dd.css.map": "/static/css/main.b30f93dd.css.map",
+    "main.540638cf.js.map": "/static/js/main.540638cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.70b60007.css",
-    "static/js/main.118f4357.js"
+    "static/css/main.b30f93dd.css",
+    "static/js/main.540638cf.js"
   ]
 }

@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b30f93dd.css",
-    "main.js": "/static/js/main.540638cf.js",
+    "main.js": "/static/js/main.13687384.js",
+    "static/js/787.a53fd439.chunk.js": "/static/js/787.a53fd439.chunk.js",
     "static/media/wave.gltf": "/static/media/wave.be4432432836dd4d1abf.gltf",
     "static/media/chess-photo.png": "/static/media/chess-photo.cce98d02ddf31fa61245.png",
     "static/media/portrait-beach-blue.png": "/static/media/portrait-beach-blue.5732c3a26672c119bb8e.png",
@@ -10,13 +11,14 @@
     "static/media/ramos.png": "/static/media/ramos.061de4d70cb4fe920821.png",
     "static/media/guitar.png": "/static/media/guitar.df5f6a11891805915813.png",
     "static/media/perez.png": "/static/media/perez.2d05c2075afb625f8cd6.png",
+    "static/media/stars.png": "/static/media/stars.90c266f7d69f1ffb6137.png",
     "static/media/league.png": "/static/media/league.b580f0266cc3f0589d0d.png",
     "static/media/alcaraz.png": "/static/media/alcaraz.c911a19f964faaf216b1.png",
     "static/media/schrute.png": "/static/media/schrute.d18fd847a9b6ea99d264.png",
     "static/media/max.png": "/static/media/max.6a47ffae8804518ef4e9.png",
     "static/media/ngolo.png": "/static/media/ngolo.e9ab0726e8dc3f1191f1.png",
     "static/media/nba.png": "/static/media/nba.fb65b6aa3a203cca2dd7.png",
-    "static/media/resume.pdf": "/static/media/resume.fa511fede61e3b412203.pdf",
+    "static/media/resume.pdf": "/static/media/resume.e0fe61b10ee33651da3b.pdf",
     "static/media/chess.png": "/static/media/chess.85069946c2efe0c35437.png",
     "static/media/logo_no_background.png": "/static/media/logo_no_background.50e184ac9f0238a4407f.png",
     "static/media/elon.png": "/static/media/elon.bc18dd80ee3dd372690c.png",
@@ -37,10 +39,11 @@
     "static/media/lichess.svg": "/static/media/lichess.d07684b8726ccbddd70b3c81fb70ef56.svg",
     "index.html": "/index.html",
     "main.b30f93dd.css.map": "/static/css/main.b30f93dd.css.map",
-    "main.540638cf.js.map": "/static/js/main.540638cf.js.map"
+    "main.13687384.js.map": "/static/js/main.13687384.js.map",
+    "787.a53fd439.chunk.js.map": "/static/js/787.a53fd439.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b30f93dd.css",
-    "static/js/main.540638cf.js"
+    "static/js/main.13687384.js"
   ]
 }

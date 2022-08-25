@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b30f93dd.css",
-    "main.js": "/static/js/main.13687384.js",
+    "main.js": "/static/js/main.9303ea78.js",
     "static/js/787.a53fd439.chunk.js": "/static/js/787.a53fd439.chunk.js",
     "static/media/wave.gltf": "/static/media/wave.be4432432836dd4d1abf.gltf",
     "static/media/chess-photo.png": "/static/media/chess-photo.cce98d02ddf31fa61245.png",
@@ -18,7 +18,6 @@
     "static/media/max.png": "/static/media/max.6a47ffae8804518ef4e9.png",
     "static/media/ngolo.png": "/static/media/ngolo.e9ab0726e8dc3f1191f1.png",
     "static/media/nba.png": "/static/media/nba.fb65b6aa3a203cca2dd7.png",
-    "static/media/resume.pdf": "/static/media/resume.e0fe61b10ee33651da3b.pdf",
     "static/media/chess.png": "/static/media/chess.85069946c2efe0c35437.png",
     "static/media/logo_no_background.png": "/static/media/logo_no_background.50e184ac9f0238a4407f.png",
     "static/media/elon.png": "/static/media/elon.bc18dd80ee3dd372690c.png",
@@ -39,11 +38,11 @@
     "static/media/lichess.svg": "/static/media/lichess.d07684b8726ccbddd70b3c81fb70ef56.svg",
     "index.html": "/index.html",
     "main.b30f93dd.css.map": "/static/css/main.b30f93dd.css.map",
-    "main.13687384.js.map": "/static/js/main.13687384.js.map",
+    "main.9303ea78.js.map": "/static/js/main.9303ea78.js.map",
     "787.a53fd439.chunk.js.map": "/static/js/787.a53fd439.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b30f93dd.css",
-    "static/js/main.13687384.js"
+    "static/js/main.9303ea78.js"
   ]
 }

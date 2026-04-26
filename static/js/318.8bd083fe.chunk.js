@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[318],{2318:(e,s,a)=>{a.d(s,{Z:()=>c});a(2791);const c=a.p+"static/media/chelsea.a610a1c9412844048a6714c423dba4b0.svg"}}]);
+//# sourceMappingURL=318.8bd083fe.chunk.js.map
